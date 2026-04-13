@@ -118,7 +118,7 @@ Result: Only minor improvement (~1%), indicating the dataset is already well-str
 ## 📊 Power BI Dashboard
 
 An interactive dashboard was designed to visualize churn insights.
-
+## images yet to be added
 ---
 
 ### 📌 Dashboard Overview Page
